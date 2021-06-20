@@ -1,0 +1,16 @@
+.image1{
+	display: inline-block;
+	/*vertical-align: top;*/
+	width: 270px;
+	margin-top: 96px;
+	margin-left: 43px;
+}
+.paragraph1-absolutefont{
+	display: inline-block;
+	width: 929.02px;
+	height: 137px;
+	vertical-align: top;
+	margin-top: 96px;
+	margin-left: 39px;
+	font-family: "ALK Life", sans-serif;
+}
