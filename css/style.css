@@ -1,16 +1,25 @@
 .image1{
 	display: inline-block;
-	/*vertical-align: top;*/
+	vertical-align: top;
 	width: 270px;
 	margin-top: 96px;
 	margin-left: 43px;
 }
-.paragraph1-absolutefont{
+.paragraph{
 	display: inline-block;
 	width: 929.02px;
-	height: 137px;
+	height: 360px;
 	vertical-align: top;
 	margin-top: 96px;
 	margin-left: 39px;
-	font-family: "ALK Life", sans-serif;
+	font-size: 16px;
+}
+.paragraph1-absolutefont{
+	display: inline-block;
+	font-family: "ALK Life";
+	margin-bottom: 18px;
+}
+.paragraph1-relativefont{
+	display: inline-block;
+	font-family: 'ALK Rex Bold';
 }
