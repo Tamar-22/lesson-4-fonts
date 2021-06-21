@@ -21,3 +21,29 @@
 .paragraph1-relativefont{
 	font-family: 'ALK Rex Bold';
 }
+/*section#2*/
+.image2{
+	display: inline-block;
+	vertical-align: top;
+	width: 270px;
+	margin-top: 188.5px;
+	margin-left: 43px;
+}
+.paragraph2{
+	display: inline-block;
+	width: 929.02px;
+	height: 360px;
+	vertical-align: top;
+	margin-top: 188.5px;
+	margin-left: 39px;
+	font-size: 16px;
+
+}
+.paragraph2-absolutefont{
+	display: inline-block;
+	margin-bottom: 18px;
+	font-family: 'Big Shoulders Stencil Display', cursive;
+}
+.paragraph2-relativefont{
+	 font-family: 'Saira Condensed';
+}

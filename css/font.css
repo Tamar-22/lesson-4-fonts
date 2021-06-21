@@ -7,3 +7,16 @@
          url('../fonts/alk-rex-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/alk-rex-bold-webfont.svg#alk_rexbold') format('svg'); /* Legacy iOS */
 }
+@font-face {
+    font-family: 'Saira Condensed';
+    src: url('../fonts/SairaCondensed-ExtraBold.eot');
+    src: url('../fonts/SairaCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SairaCondensed-ExtraBold.woff2') format('woff2'),
+        url('../fonts/SairaCondensed-ExtraBold.woff') format('woff'),
+        url('../fonts/SairaCondensed-ExtraBold.ttf') format('truetype'),
+        url('../fonts/SairaCondensed-ExtraBold.svg#SairaCondensed-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
