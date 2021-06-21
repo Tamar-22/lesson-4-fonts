@@ -5,7 +5,7 @@
 	margin-top: 96px;
 	margin-left: 43px;
 }
-.paragraph{
+.paragraph1{
 	display: inline-block;
 	width: 929.02px;
 	height: 360px;
@@ -15,11 +15,9 @@
 	font-size: 16px;
 }
 .paragraph1-absolutefont{
-	display: inline-block;
 	font-family: "ALK Life";
 	margin-bottom: 18px;
 }
 .paragraph1-relativefont{
-	display: inline-block;
 	font-family: 'ALK Rex Bold';
 }
